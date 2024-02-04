@@ -1,0 +1,42 @@
+body{
+    background-color: antiquewhite;
+}
+
+#container{
+    font-family: cursive;
+    text-align: center;
+    font-size:  2rem;
+    font-weight: bold;
+    background-color: white;
+    width: 20cm;
+    height: 20cm;
+    margin: auto;
+    border-radius: z;
+}
+
+button{
+    
+    font-size: 1.5rem;
+    margin-top: 20px;
+    padding:  10px 15px;
+    border-radius: 10px;
+    border: none;
+    background-color: aqua;
+    font-weight: bold;
+}
+
+input {
+    font-size: 2rem;
+    width: 150px;
+    text-align: center;
+    font-weight: bold;
+}
+
+#diceResults{
+    margin: 25px;
+}
+
+#diceImages img{
+    width:  150px;
+    margin: 5px;
+}
